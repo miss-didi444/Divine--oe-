@@ -10,9 +10,9 @@ The outbreak of Covid-19 led to a surge in demand of a branch of health care tha
 •	mental health;
 •	chronic-condition management care; amongst others.
 In essence, telehealth offers health care services to patients at the comfort of your mobile or electronic device which means that all you need is a smartphone or webcam inclusive device, internet connection, and a virtual healthcare provider (most of which operate with their own apps). Though it may not sound as comfortable, studies have shown that the percentage of people interested in using virtual care rose to 76% in 2021 from 11% in 2019. In addition, 83% of patients still expect to be virtually attended to in the post pandemic society. 
-*** https://news.careinnovations.com/hubfs/how-virtual-care-benefits-patients-clinicians-healthcare-organizations.jpg
+***https://news.careinnovations.com/hubfs/how-virtual-care-benefits-patients-clinicians-healthcare-organizations.jpg
 ### FORMS OF VIRTUAL CARE
-*** Virtual care can be delivered in any of these three ways: 
+***Virtual care can be delivered in any of these three ways: 
 1.	Synchronous— the doctor is communicating with the patient in real time via a video or voice call.
 2.	Asynchronous— the patient records data or takes images to share with the doctor later.
 3.	Remote patient monitoring— measurements such as weight, temperature or blood pressure are shared with the healthcare provider.
